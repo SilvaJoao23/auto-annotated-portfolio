@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/wp2561072-simple-background.jpg
+  url: /images/smartmockups_loct8fy3.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
