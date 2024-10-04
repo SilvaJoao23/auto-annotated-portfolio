@@ -57,7 +57,7 @@ sections:
         label: HTML5
         url: ''
       - type: Label
-        label: CSS
+        label: CSS3
         url: ''
       - type: Label
         label: C++
