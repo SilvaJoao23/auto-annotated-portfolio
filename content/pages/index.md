@@ -63,10 +63,10 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: Edição de imagem e vídeo
+        label: C++
         url: ''
       - type: Label
-        label: C++
+        label: Edição de imagem e vídeo
         url: ''
     colors: colors-f
     elementId: ''
