@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Olá sou estudante do 3º ano do curso de Gestão e Programação de Sistemas
+      Olá, sou estudante do 3º ano do curso de Gestão e Programação de Sistemas
       Informáticos
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
