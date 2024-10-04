@@ -54,7 +54,7 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: HTLML
+        label: HTML
         url: ''
       - type: Label
         label: CSS
