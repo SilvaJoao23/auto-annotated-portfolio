@@ -4,7 +4,9 @@ title: Dream PC
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: 'Projeto elaborado em grupo para a realização de uma página web '
+description: >-
+  Projeto elaborado em grupo para a realização de uma página web para
+  personalização e venda de portáteis. Projeto realizado em php.
 featuredImage:
   type: ImageBlock
   url: /images/image (2).png
