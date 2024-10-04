@@ -57,6 +57,9 @@ sections:
         label: HTML5
         url: ''
       - type: Label
+        label: MySQL
+        url: ''
+      - type: Label
         label: CSS3
         url: ''
       - type: Label
@@ -67,9 +70,6 @@ sections:
         url: ''
       - type: Label
         label: Edição de imagem e vídeo
-        url: ''
-      - type: Label
-        label: MySQL
         url: ''
     colors: colors-f
     elementId: ''
