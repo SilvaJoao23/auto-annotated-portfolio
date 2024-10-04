@@ -71,6 +71,9 @@ sections:
       - type: Label
         label: Edição de imagem e vídeo
         url: ''
+      - type: Label
+        label: Python
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
