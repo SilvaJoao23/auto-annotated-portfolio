@@ -77,7 +77,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+351 919 178 931",
             "phoneAltText": "My phone number",
             "email": "a14405@oficina.pt",
             "emailAltText": "My email",
