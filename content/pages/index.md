@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Olá, sou estudante do 3º ano do curso de Gestão e Programação de Sistemas
-      Informáticos
+      Olá, chamo-me João Neves estudante do 3º ano do curso de Gestão e
+      Programação de Sistemas Informáticos
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
