@@ -53,7 +53,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: React
+        label: HTLML
         url: ''
       - type: Label
         label: Microsoft Office
