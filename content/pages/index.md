@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: João neves
+    title: Olá!
     subtitle: >-
       Chamo-me João Neves, tenho 18 anos sou de Freamunde e atualmente estudo na
       OFICINA - Escola Profissional do INA.
