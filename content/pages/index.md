@@ -68,6 +68,9 @@ sections:
       - type: Label
         label: Edição de imagem e vídeo
         url: ''
+      - type: Label
+        label: MySQL
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
