@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: Olá!
     subtitle: >-
-      Chamo-me João Neves, tenho 18 anos sou de Freamunde e atualmente estudo na
-      OFICINA - Escola Profissional do INA. Sou interessado na área de hardware
-      mas também tenho experiência em programação.
+      Chamo-me João Neves, tenho 18 anos sou de Freamunde e atualmente estudo
+      GPSI (Gestão e Programação de Sistemas Informáticos) na OFICINA - Escola
+      Profissional do INA. Sou interessado na área de hardware mas também tenho
+      experiência em programação.
     styles:
       self:
         height: auto
@@ -53,19 +54,25 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: HTLML
+        label: HTML5
         url: ''
       - type: Label
-        label: CSS
+        label: MySQL
+        url: ''
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: CSS3
+        url: ''
+      - type: Label
+        label: C++
         url: ''
       - type: Label
         label: Hardware
         url: ''
       - type: Label
         label: Edição de imagem e vídeo
-        url: ''
-      - type: Label
-        label: C++
         url: ''
     colors: colors-f
     elementId: ''
