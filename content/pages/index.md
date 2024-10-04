@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Olá, sou aluno do 3ºano de GPSI'
+    title: João neves
     subtitle: >-
       Chamo-me João Neves, tenho 18 anos sou de Freamunde e atualmente estudo na
       OFICINA - Escola Profissional do INA.
