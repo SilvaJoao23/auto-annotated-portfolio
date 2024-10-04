@@ -1,13 +1,12 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Dream PC
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Projeto elaborado em grupo para a realização de uma página web para
+  personalização e venda de portáteis. Projeto realizado em php.
 featuredImage:
   type: ImageBlock
   url: /images/image (2).png
