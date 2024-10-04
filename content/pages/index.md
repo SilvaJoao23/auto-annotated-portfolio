@@ -60,6 +60,9 @@ sections:
         label: MySQL
         url: ''
       - type: Label
+        label: Python
+        url: ''
+      - type: Label
         label: CSS3
         url: ''
       - type: Label
@@ -70,9 +73,6 @@ sections:
         url: ''
       - type: Label
         label: Edição de imagem e vídeo
-        url: ''
-      - type: Label
-        label: Python
         url: ''
     colors: colors-f
     elementId: ''
