@@ -62,7 +62,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: Netlify
+        label: Edição de imagem e vídeo
         url: ''
       - type: Label
         label: Pancakes
