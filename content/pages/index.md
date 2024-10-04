@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Python
+        label: PHP
         url: ''
       - type: Label
         label: HTLML
