@@ -4,7 +4,7 @@ title: Calculadora PHP
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: Programei uma calculadora em PHP
+description: Desenvolvi uma calculadora em PHP
 featuredImage:
   type: ImageBlock
   url: /images/smartmockups_loct8fy3.jpg
