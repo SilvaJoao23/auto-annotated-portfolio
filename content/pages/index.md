@@ -65,9 +65,6 @@ sections:
         label: Edição de imagem e vídeo
         url: ''
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: C++
         url: ''
       - type: Label
