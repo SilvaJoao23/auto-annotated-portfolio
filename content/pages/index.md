@@ -59,7 +59,7 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Next.js
+        label: Hardware
         url: ''
       - type: Label
         label: Netlify
