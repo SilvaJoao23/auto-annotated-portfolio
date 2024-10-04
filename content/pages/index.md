@@ -56,7 +56,7 @@ sections:
         label: HTLML
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: CSS
         url: ''
       - type: Label
         label: Next.js
