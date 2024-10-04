@@ -60,10 +60,10 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Hardware
+        label: C++
         url: ''
       - type: Label
-        label: C++
+        label: Hardware
         url: ''
       - type: Label
         label: Edição de imagem e vídeo
